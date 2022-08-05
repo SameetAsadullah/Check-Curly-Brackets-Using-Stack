@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Uniii\Github Repositories\Check-Curly-Brackets-Using-Stack\src\stack.h(53): warning C4715: 'Stack<char>::pop': not all control paths return a value
+  Check-Curly-Brackets.vcxproj -> F:\Uniii\Github Repositories\Check-Curly-Brackets-Using-Stack\src\x64\Debug\Check-Curly-Brackets.exe
